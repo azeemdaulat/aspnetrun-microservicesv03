@@ -1,4 +1,4 @@
-namespace BasketAPI
+namespace DiscountAPI
 {
     public class WeatherForecast
     {
